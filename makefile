@@ -1,4 +1,4 @@
-all:socket.c
-	g++ socket.c -o socket
+all:aaa.c
+	g++ aaa.c -o aaa
 clean:
-	rm -f socket
+	rm -f aaa
